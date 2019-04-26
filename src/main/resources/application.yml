@@ -1,0 +1,3 @@
+# 配置logback 把日志输出到文件中 很重要
+logging:
+  config: classpath:logback-spring.xml
